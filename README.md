@@ -1,7 +1,13 @@
 - 👋 Hi, I’m @jorgerocha10
-- 👀 I’m interested in Python and SQL
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on SQL and Python
+- Welcome to my GitHub! I'm a builder and lifelong learner with a passion for:
+
+- 🐍 Python scripting and automation  
+- 🧠 Working with Large Language Models (LLMs)  
+- 🛠️ Microcontrollers and hardware projects (ESP32, Arduino, etc.)  
+- 🗄️ Data wrangling with SQL  
+- 💡 Turning creative ideas into working prototypes
+
+---
 
 <!---
 jorgerocha10/jorgerocha10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
