@@ -2,9 +2,9 @@
 
 ### Welcome to my GitHub! I'm a builder and lifelong learner with a passion for:
 
-- 🐍 Python scripting and automation  
+- 🐍 Python scripting and automation 
+- 🛠️ Microcontrollers and hardware projects (ESP32, Arduino, etc.)   
 - 🧠 Working with Large Language Models (LLMs)  
-- 🛠️ Microcontrollers and hardware projects (ESP32, Arduino, etc.)  
 - 🗄️ Data wrangling with SQL  
 - 💡 Turning creative ideas into working prototypes
 
