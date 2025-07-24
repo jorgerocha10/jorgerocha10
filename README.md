@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @jorgerocha10
-- Welcome to my GitHub! I'm a builder and lifelong learner with a passion for:
+# 👋 Hi, I’m @jorgerocha10
+
+## Welcome to my GitHub! I'm a builder and lifelong learner with a passion for:
 
 - 🐍 Python scripting and automation  
 - 🧠 Working with Large Language Models (LLMs)  
